@@ -1,6 +1,5 @@
 ### Debora Passos 
-- 🔭 Em transição de carreira para Web Full Stack
-- 🌱 Entrando no mundo do Back End
+- 🔭 Engenharia de Dados - Data Platform
 - 😄 Pronouns: ela/dela
 
 
