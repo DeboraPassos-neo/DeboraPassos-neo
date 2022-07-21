@@ -15,14 +15,7 @@
   
 </div>
  
-## 
-
-<div align="center">
-  <a href="https://github.com/DeboraPassos-neo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeboraPassos-neo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
- 
-  ##
+<br>
   
 <div>
   <a href = "mailto:deborinhapassos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
