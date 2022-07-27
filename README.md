@@ -1,5 +1,5 @@
 ### Debora Passos 
-- 🔭 Engenharia de Dados - Data Platform
+- 🔭 Data Engineer - Data Platform
 - 😄 Pronouns: ela/dela
 
 
